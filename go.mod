@@ -1,4 +1,4 @@
-module github.com/cdyue/client_golang
+module github.com/zzjjian/client_golang
 
 require (
 	github.com/beorn7/perks v1.0.0
