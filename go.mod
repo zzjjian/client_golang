@@ -1,4 +1,4 @@
-module github.com/prometheus/client_golang
+module github.com/cdyue/client_golang
 
 require (
 	github.com/beorn7/perks v1.0.0
@@ -9,3 +9,5 @@ require (
 	github.com/prometheus/procfs v0.0.0-20190507164030-5867b95ac084
 	github.com/prometheus/tsdb v0.7.1
 )
+
+go 1.13
